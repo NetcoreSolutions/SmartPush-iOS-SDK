@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'SmartPush-iOS-SDK'
-  s.version                 = '3.0.0'
+  s.version                 = '3.0.1'
   s.summary                 = 'The SmartPush iOS SDK for User Engagement.'
   s.description             = <<-DESC
                                 Smartech is a omni channel platform that delivers everything you need to drive mobile engagement and create valuable consumer relationships on mobile.
@@ -9,12 +9,10 @@ Pod::Spec.new do |s|
   s.homepage                = "https://netcoresmartech.com"  
   s.documentation_url       = 'https://docs.netcoresmartech.com/docs/ios-customer-engagement'
   s.license                 = { :type => "Commercial", :file => "LICENSE"}  
-  s.author                  = { "Manish Kumar" => "Manish.k@netcorecloud.com" } 
+  s.author                  = { "Jobin Kurian" => "jobin.kurian@netcorecloud.com" }
   s.source                  = { :git => 'https://github.com/NetcoreSolutions/SmartPush-iOS-SDK.git', :tag => "v#{s.version.to_s}" }
   s.ios.deployment_target   = '10.0'
   s.ios.vendored_frameworks = 'Frameworks/SmartPush/SmartPush.xcframework'
   s.frameworks              = 'Foundation', 'UIKit', 'SystemConfiguration', 'Security', 'CoreData'
   s.weak_framework          = 'UserNotifications'
-  s.pod_target_xcconfig     = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.user_target_xcconfig    = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end
