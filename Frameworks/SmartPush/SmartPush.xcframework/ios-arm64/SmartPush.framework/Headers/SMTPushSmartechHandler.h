@@ -23,7 +23,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (instancetype)sharedInstance;
 
-- (BOOL)checkIfTokenNeedToBeSend;
+- (BOOL)checkIfTokenNeedsToBeSend;
+
+- (BOOL)checkIfNotificationPermissionNeedsToBeSend;
 
 - (BOOL)checkIfAttributionNeedsToBeDropped:(NSString *)appIdentity withRecievedIdentity:(NSString *)recievedIdentity;
 
