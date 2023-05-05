@@ -22,6 +22,8 @@ FOUNDATION_EXPORT const unsigned char SmartPushVersionString[];
 
 @class SMTNotificationContentHandler;
 
+static NSString * _Nonnull const kSMTNotificationReceivedIdentifier = @"SmartechNotificationReceived";
+
 typedef NS_ENUM(NSUInteger, SMTPushLogLevel) {
     SMTPushLogLevelVerbose = 1,
     SMTPushLogLevelDebug = 2,
