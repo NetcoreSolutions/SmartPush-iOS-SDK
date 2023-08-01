@@ -11,6 +11,7 @@
 #import <UserNotificationsUI/UserNotificationsUI.h>
 
 #import <SmartPush/SMTNotificationServiceExtension.h>
+#import <SmartPush/SMTCustomNotificationViewController.h>
 
 //! Project version number for SmartPush.
 FOUNDATION_EXPORT double SmartPushVersionNumber;
