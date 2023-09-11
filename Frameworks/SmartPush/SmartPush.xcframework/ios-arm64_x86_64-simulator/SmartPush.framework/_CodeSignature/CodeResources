@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/SMTPushSmartechHandler.h</key>
 		<data>
-		HEVReEyRwXZFVUnZY131+wkXEGw=
+		31cbk3YSVTxY9KDylmw60oUR1w4=
 		</data>
 		<key>Headers/SmartPush.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WCuQU7K0l1ZNU0kMCr9eHTnTEEk=
+		datU/4ski0SAA4uFM6VXDbHeeyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -200,11 +200,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HEVReEyRwXZFVUnZY131+wkXEGw=
+			31cbk3YSVTxY9KDylmw60oUR1w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			68M8NP3lZRQs1sguiiKHxp4Nw2w8EArgNzP++kQTT4Y=
+			zpwdQcQSZ15AmJ6E2bGccxLmLu4UdNyeQqHxmaEGTag=
 			</data>
 		</dict>
 		<key>Headers/SmartPush.h</key>

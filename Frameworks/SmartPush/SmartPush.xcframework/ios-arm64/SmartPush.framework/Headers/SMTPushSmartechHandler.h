@@ -39,6 +39,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)handleDeeplinkURLString:(NSString *)deeplinkString customPayload:(NSDictionary * _Nullable)customPayload withCompletion:(DeeplinkCompletion)completionBlock;
 
+- (void)loadSmartechStore;
+
 @end
 
 NS_ASSUME_NONNULL_END
