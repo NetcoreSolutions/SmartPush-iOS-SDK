@@ -22,9 +22,15 @@
 			<key>supportedLayouts</key>
 			<array>
 				<integer>21</integer>
+				<integer>22</integer>
+				<integer>23</integer>
+				<integer>24</integer>
 			</array>
 			<key>similarLayouts</key>
-			<dict/>
+			<dict>
+				<key>22</key>
+				<string>21</string>
+			</dict>
 		</dict>
 		<key>Gif</key>
 		<dict>
@@ -66,6 +72,7 @@
 			<key>supportedLayouts</key>
 			<array>
 				<integer>71</integer>
+				<integer>72</integer>
 			</array>
 			<key>similarLayouts</key>
 			<dict/>

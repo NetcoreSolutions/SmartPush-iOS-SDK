@@ -21,8 +21,6 @@ FOUNDATION_EXPORT const unsigned char SmartPushVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SmartPush/PublicHeader.h>
 
-@class SMTNotificationContentHandler;
-
 static NSString * _Nonnull const kSMTNotificationReceivedIdentifier = @"SmartechNotificationReceived";
 
 typedef NS_ENUM(NSUInteger, SMTPushLogLevel) {
@@ -173,56 +171,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (NSInteger)getNotificationBadgeCount;
 
-
-#pragma mark - Carousel Push Notifications Methods
-
-/**
- @brief This method used to load the carousel view for the push notification.
- 
- @discussion This method needs to called inside the Notification Content Extensions's viewDidLoad method.
- 
- You can use the below code.
- 
- @code
- [[SmartechPushNotification loadCustomNotificationContentView:view];
- @endcode
- 
- @param view The view object
- */
-- (void)loadCustomNotificationContentView:(UIView *)view;
-
-/**
- @brief Method will call when the user made 3D touch on the notification, This method for displaying carousel Notification.
- 
- @discussion This method needs to called inside the Notification Content Extensions's didReceiveNotification: method.
- 
- You can use the below code.
- 
- @code
- [[SmartechPushNotification didReceiveCustomNotification:notification];
- @endcode
- 
- @param notification The notification object that arrived.
- */
-- (void)didReceiveCustomNotification:(UNNotification *)notification;
-
-/**
- @brief This method used to call when the user taps on one of the notification action buttons. The completion handler can be called after handling the action to dismiss the notification and forward the action to the app if necessary for Carousel Push Notification.
- 
- @discussion This method needs to called inside the Notification Content Extensions's didReceiveNotificationResponse:completionHandler: method.
- 
- You can use the below code.
- 
- @code
- [[SmartechPushNotification didReceiveCustomNotificationResponse:response completionHandler:^(UNNotificationContentExtensionResponseOption option) {
- completion(option);
- }];
- @endcode
- 
- @param response The response object that identifies the user-selected action.
- @param completion The block to execute when you are finished performing the action.
- */
-- (void)didReceiveCustomNotificationResponse:(UNNotificationResponse *)response completionHandler:(void (^)(UNNotificationContentExtensionResponseOption option))completion;
 
 #pragma mark - GDPR Methods
 
