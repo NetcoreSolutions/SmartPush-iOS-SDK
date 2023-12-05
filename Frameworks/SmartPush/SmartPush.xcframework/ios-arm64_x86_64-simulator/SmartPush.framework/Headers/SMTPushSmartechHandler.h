@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (BOOL)checkIfNotificationPermissionNeedsToBeSend;
 
-- (BOOL)checkIfAttributionNeedsToBeDropped:(NSString *)appIdentity withRecievedIdentity:(NSString *)recievedIdentity;
+- (BOOL)checkIfAttributionNeedsToBeUpdated:(NSString *)appIdentity withRecievedIdentity:(NSString *)recievedIdentity;
 
 - (void)handleOpenOperation:(NSInvocationOperation *)operation;
 
