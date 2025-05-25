@@ -41,6 +41,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)loadSmartechStore;
 
+- (void)handleDoubleOptIn:(UNAuthorizationStatus)status forceOptIn:(BOOL)forceOptIn andInstantOptIn:(BOOL)isInstantOptIn;
+
+- (void)resetDoubleOptIn;
+
+- (void)saveDoubleOptIn2Timestamp:(NSDate *)date;
+
 @end
 
 NS_ASSUME_NONNULL_END

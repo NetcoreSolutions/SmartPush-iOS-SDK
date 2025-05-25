@@ -213,6 +213,18 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (BOOL)isNotificationFromSmartech:(NSDictionary *)userInfo;
 
+//  This function will be used to trigger the Double OptIn
+- (void)initiateNotificationDoubleOptIn;
+
+
+// This function will be used to display the Double Opt-in immediately.
+- (void)showInstantNotificationDoubleOptIn;
+
+
+// Reset the Double Optin interval
+- (void)resetNotificationDoubleOptIn;
+
 @end
+
 
 NS_ASSUME_NONNULL_END
