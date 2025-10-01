@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		pJwkzYf8BjprE23bK2Skzmrr3io=
+		xLcynfT5i2Wk/u60OYiJvEE6H9I=
 		</data>
 		<key>Headers/SMTCustomNotificationViewController.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Headers/SMTPushSmartechHandler.h</key>
 		<data>
-		y58n6A7aHtA4rQxXS0yJAPKn/8E=
+		N8M6Hq/Cy3uLOkEdaqCbSr0CG7M=
 		</data>
 		<key>Headers/SmartPush.h</key>
 		<data>
-		LNlbDyQPOOZmutmSyFSYFb8//IE=
+		soZL5BioWoXpM6lOXM9Smje1Rhk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WLD9jBZp/xVmtWVf+7HI8lqdwrk=
+		b2YC5hYjcte8i7D/9QgSJ/KhfYo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -44,26 +44,6 @@
 		<data>
 		yqNuRQTBjqP9GRa2tOCucSFioZc=
 		</data>
-		<key>SMTCarouselComponent.nib</key>
-		<data>
-		kaOTdQ3Pci5cGGa3a4PRLJqenrE=
-		</data>
-		<key>SMTCarouselComponentCollectionViewCell.nib/objects-12.3+.nib</key>
-		<data>
-		BFJkMb0CGut1jeZ8Pl0S+aRO1c0=
-		</data>
-		<key>SMTCarouselComponentCollectionViewCell.nib/runtime.nib</key>
-		<data>
-		F/QmcsXsYcaeHg9/zbKgA3ERd3w=
-		</data>
-		<key>SMTCarouselPortraitComponentCollectionViewCell.nib/objects-12.3+.nib</key>
-		<data>
-		DRMIEenBoCf/6rJ0OcNYhcPTCdY=
-		</data>
-		<key>SMTCarouselPortraitComponentCollectionViewCell.nib/runtime.nib</key>
-		<data>
-		yYCLtJJyBcJOcBNbRDlipne9O/s=
-		</data>
 		<key>SMTGifComponent.nib</key>
 		<data>
 		JWy/jA5LATI1MHt2bHqUw9H78KE=
@@ -75,6 +55,14 @@
 		<key>SMTImageComponent.nib</key>
 		<data>
 		8RQalNNA36u6AR/WmQT3W6YOFH0=
+		</data>
+		<key>SMTLandscapeCarouselComponent.nib/objects-11.0+.nib</key>
+		<data>
+		1RpH0JTLcX+K3QAev1qzxEhLvN4=
+		</data>
+		<key>SMTLandscapeCarouselComponent.nib/runtime.nib</key>
+		<data>
+		VfQJNk7jxMvcGuyHqXaupCElT+A=
 		</data>
 		<key>SMTLayout01.nib</key>
 		<data>
@@ -120,9 +108,25 @@
 		<data>
 		k3b6eun1d3fU1x4paWXMxO4pqLA=
 		</data>
+		<key>SMTLayout92.nib</key>
+		<data>
+		KABvNHoCQGiCe4T598sigB99kVw=
+		</data>
 		<key>SMTMediaComponent.nib</key>
 		<data>
 		MuHxYFS/XGzhUPnLUYUKKdExPnY=
+		</data>
+		<key>SMTMultiImageComponent.nib</key>
+		<data>
+		pvAT+uaAVV02uSJAwB+kNm6grwk=
+		</data>
+		<key>SMTPortraitCarouselComponent.nib/objects-11.0+.nib</key>
+		<data>
+		EyhVWpmJQvbXVwp393b7l4pXirA=
+		</data>
+		<key>SMTPortraitCarouselComponent.nib/runtime.nib</key>
+		<data>
+		r/dKwdvjKB98kRCo5zzLpZoSnWA=
 		</data>
 		<key>SMTProgressComponent.nib</key>
 		<data>
@@ -130,11 +134,11 @@
 		</data>
 		<key>SMTRatingComponent.nib/objects-11.0+.nib</key>
 		<data>
-		wrojWD+KAt07Z//uAvhJS/z+6es=
+		Dx8UP+Ucx5IUOSf2BGCKeD/ualA=
 		</data>
 		<key>SMTRatingComponent.nib/runtime.nib</key>
 		<data>
-		BObCt2MIs10ErMoGo8jFb2b91+M=
+		bE8Xt52KEvwwE7hJKH+L0ncKYu0=
 		</data>
 		<key>SMTTextAndTimerComponent.nib</key>
 		<data>
@@ -142,11 +146,11 @@
 		</data>
 		<key>SMTVideoComponent.nib</key>
 		<data>
-		CI8kvJWBQcGjaqE3Cm7okI0oqkU=
+		7kpGIPZa5rMcFBKH3IIhehpfRjg=
 		</data>
 		<key>SmartechPushDB.momd/SmartechPushDB 2.mom</key>
 		<data>
-		xKNJ7vydOeAOcPf2zVRxwtvLZhk=
+		+vVCJ0IvLYw/f+IetE/w923vsdA=
 		</data>
 		<key>SmartechPushDB.momd/SmartechPushDB 2.omo</key>
 		<data>
@@ -154,7 +158,7 @@
 		</data>
 		<key>SmartechPushDB.momd/SmartechPushDB.mom</key>
 		<data>
-		G9cLfQaukymapipVPSTQtcmSczI=
+		qBEYfTvalY7s2t92NkwX0USXTTs=
 		</data>
 		<key>SmartechPushDB.momd/VersionInfo.plist</key>
 		<data>
@@ -162,7 +166,7 @@
 		</data>
 		<key>SmartechPushSDKConfig.plist</key>
 		<data>
-		yeixPWpqHsVuCuv2+hIK/myLIgw=
+		17Nq0aB2cSXQkiUkQFeR+FsxFns=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -171,11 +175,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pJwkzYf8BjprE23bK2Skzmrr3io=
+			xLcynfT5i2Wk/u60OYiJvEE6H9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			JWwdbMvDKp3YQ00OKFybRW5XhUrvio7je9LvlxBT8lE=
+			agaSh3LkdtubhyOv1+o7vX9/oRP1y1Cj8yoMZ8rgDUk=
 			</data>
 		</dict>
 		<key>Headers/SMTCustomNotificationViewController.h</key>
@@ -204,22 +208,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y58n6A7aHtA4rQxXS0yJAPKn/8E=
+			N8M6Hq/Cy3uLOkEdaqCbSr0CG7M=
 			</data>
 			<key>hash2</key>
 			<data>
-			NrShQgFmwTtqQyg0a7CMNq4tQ3OnepC94nJlbnVmM+U=
+			3R9ZllSL1BDtZ7RuQ4b1r5roZNUtoRbFJ9DtMhaC/RU=
 			</data>
 		</dict>
 		<key>Headers/SmartPush.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LNlbDyQPOOZmutmSyFSYFb8//IE=
+			soZL5BioWoXpM6lOXM9Smje1Rhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ze8JQlF++qYjFF4IY+KBzWqEVPQXDLrZc0f9cd983Hk=
+			cAfo8eswjUi057YdidmfuQvRYg/gW46brpXBc07zUmU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -266,61 +270,6 @@
 			G9fQM2yBqvnHs0WVUhGXmF/mEj2frLxtspRV0iGA5QI=
 			</data>
 		</dict>
-		<key>SMTCarouselComponent.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kaOTdQ3Pci5cGGa3a4PRLJqenrE=
-			</data>
-			<key>hash2</key>
-			<data>
-			iklJpyLRw1Xu6LGtdM6U675usjIr61VtJZlq6IHpL0k=
-			</data>
-		</dict>
-		<key>SMTCarouselComponentCollectionViewCell.nib/objects-12.3+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BFJkMb0CGut1jeZ8Pl0S+aRO1c0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Na1eWF+5G7IVoWe1zdfOEbVPe+6LOutWfnPiKAyDTEs=
-			</data>
-		</dict>
-		<key>SMTCarouselComponentCollectionViewCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			F/QmcsXsYcaeHg9/zbKgA3ERd3w=
-			</data>
-			<key>hash2</key>
-			<data>
-			XJWoRIAhdhesFGtYtR4s4rZUO4e1LDxuQulMRCXkVgE=
-			</data>
-		</dict>
-		<key>SMTCarouselPortraitComponentCollectionViewCell.nib/objects-12.3+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DRMIEenBoCf/6rJ0OcNYhcPTCdY=
-			</data>
-			<key>hash2</key>
-			<data>
-			WM4p76PDi/uoB4B5C33iQAGMf/sjmhSYnq+aNQ2+NGY=
-			</data>
-		</dict>
-		<key>SMTCarouselPortraitComponentCollectionViewCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yYCLtJJyBcJOcBNbRDlipne9O/s=
-			</data>
-			<key>hash2</key>
-			<data>
-			2GAHCz0Ies7WwS1w035cuotCPssPnmS/DDtmC9DUCk0=
-			</data>
-		</dict>
 		<key>SMTGifComponent.nib</key>
 		<dict>
 			<key>hash</key>
@@ -352,6 +301,28 @@
 			<key>hash2</key>
 			<data>
 			HtmIGry/WTTxew2u79uyD1mZx5P+mDgC2/fLwGVNy70=
+			</data>
+		</dict>
+		<key>SMTLandscapeCarouselComponent.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1RpH0JTLcX+K3QAev1qzxEhLvN4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q7UQxJQJwzIX4DDMwP+j7DczttNsC8e2dVjsIPl5Sw0=
+			</data>
+		</dict>
+		<key>SMTLandscapeCarouselComponent.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VfQJNk7jxMvcGuyHqXaupCElT+A=
+			</data>
+			<key>hash2</key>
+			<data>
+			FBActtBi9XHl9FCG1rh70Pdd8PjFfwIJNzwf/4cOZ/o=
 			</data>
 		</dict>
 		<key>SMTLayout01.nib</key>
@@ -475,6 +446,17 @@
 			b4lRS1cQJ47E670q8rsD5rlL3+rlVTul15JwrjgvJoI=
 			</data>
 		</dict>
+		<key>SMTLayout92.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KABvNHoCQGiCe4T598sigB99kVw=
+			</data>
+			<key>hash2</key>
+			<data>
+			6GcmZThk/u7limcRrqoOSXJ4QABVvJSZBViJqSj+eq0=
+			</data>
+		</dict>
 		<key>SMTMediaComponent.nib</key>
 		<dict>
 			<key>hash</key>
@@ -484,6 +466,39 @@
 			<key>hash2</key>
 			<data>
 			fepf5Epv6/Dr4/KXb68ZfISHv7ToqBHXz8HFqu/YrdI=
+			</data>
+		</dict>
+		<key>SMTMultiImageComponent.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pvAT+uaAVV02uSJAwB+kNm6grwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			kOZuMcxJJCkstaxvm413ux7VD79V2E+7D5k9WEnzG8Q=
+			</data>
+		</dict>
+		<key>SMTPortraitCarouselComponent.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EyhVWpmJQvbXVwp393b7l4pXirA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5rv7f/CJXj0tfMNmulk8s8Zb4c6SXv6MLJCxUJ5xxOU=
+			</data>
+		</dict>
+		<key>SMTPortraitCarouselComponent.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r/dKwdvjKB98kRCo5zzLpZoSnWA=
+			</data>
+			<key>hash2</key>
+			<data>
+			DwAoXa1nd9N+lokAgr1gZrrGhzrClx36Ry/1kuLihsU=
 			</data>
 		</dict>
 		<key>SMTProgressComponent.nib</key>
@@ -501,22 +516,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wrojWD+KAt07Z//uAvhJS/z+6es=
+			Dx8UP+Ucx5IUOSf2BGCKeD/ualA=
 			</data>
 			<key>hash2</key>
 			<data>
-			lYghAT28vVfhvY+Q74bd4AR9g4x0dkFfYrqcoo+7lMg=
+			VNGH/Bcw9shRfQGTTbnLNxRQ/hwaUcCr2DF74J4xF3k=
 			</data>
 		</dict>
 		<key>SMTRatingComponent.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BObCt2MIs10ErMoGo8jFb2b91+M=
+			bE8Xt52KEvwwE7hJKH+L0ncKYu0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NAx2kVyHshLZMhsj1QFfjcYgWEEGcoDzt/zYqHg1rdM=
+			zG8zjXIliCFk/kPpBq3txqUiIZ51Ifvhi2d/7yPGzNk=
 			</data>
 		</dict>
 		<key>SMTTextAndTimerComponent.nib</key>
@@ -534,22 +549,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CI8kvJWBQcGjaqE3Cm7okI0oqkU=
+			7kpGIPZa5rMcFBKH3IIhehpfRjg=
 			</data>
 			<key>hash2</key>
 			<data>
-			xQyolJS5rW1pAXCFhuOtdrKgJeMwoxVxpA46kLK2eQw=
+			j27pKuWPkS3lph/U38yx+kpdg8QU2HNgQ9OPLHLlLKg=
 			</data>
 		</dict>
 		<key>SmartechPushDB.momd/SmartechPushDB 2.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xKNJ7vydOeAOcPf2zVRxwtvLZhk=
+			+vVCJ0IvLYw/f+IetE/w923vsdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ZSwjZhreHMa0sVNtQgmVsw7QwOrHniBR2qOuKhOheQ=
+			wm86V9x0t/Fmwnj3k2Or6vvUnCmE98by1tscOJ+C+VE=
 			</data>
 		</dict>
 		<key>SmartechPushDB.momd/SmartechPushDB 2.omo</key>
@@ -567,11 +582,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G9cLfQaukymapipVPSTQtcmSczI=
+			qBEYfTvalY7s2t92NkwX0USXTTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			uxfJCaFtGrMvgTnYmcfAYSqzlH3qAFE+sr0eWvQWXgs=
+			H6ss6A4izqjSGab6XV+vHZWHcPtoQpHWEMMypZ/OSZY=
 			</data>
 		</dict>
 		<key>SmartechPushDB.momd/VersionInfo.plist</key>
@@ -589,11 +604,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yeixPWpqHsVuCuv2+hIK/myLIgw=
+			17Nq0aB2cSXQkiUkQFeR+FsxFns=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Y3t9oweNoTJXYLtBuy0XqTGSMRxEdjm4t/zvQO5PJ0=
+			Px2IypWclGI/H2OZX6AE3/7LBALZo+Z7o3AYwANURk4=
 			</data>
 		</dict>
 	</dict>

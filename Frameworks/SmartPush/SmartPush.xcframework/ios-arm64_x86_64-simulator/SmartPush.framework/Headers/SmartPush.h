@@ -31,6 +31,7 @@ typedef NS_ENUM(NSUInteger, SMTPushLogLevel) {
     SMTPushLogLevelError = 5,
     SMTPushLogLevelFatal = 6,
     SMTPushLogLevelNone = 7,
+    SMTPushLogLevelSystem = 8
 };
 
 NS_ASSUME_NONNULL_BEGIN

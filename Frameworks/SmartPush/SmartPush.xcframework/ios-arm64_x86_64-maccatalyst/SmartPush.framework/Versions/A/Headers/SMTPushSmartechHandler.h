@@ -37,6 +37,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)recordEventWithId:(SMTPushEvent)eventId eventType:(SMTPushEventType)eventType andPayload:(NSDictionary *)payloadDictionary;
 
+- (void)recordEventWithName:(NSString *)eventName eventType:(SMTPushEventType)eventType andPayload:(NSDictionary *)payloadDictionary;
+
 - (void)handleDeeplinkURLString:(NSString *)deeplinkString customPayload:(NSDictionary * _Nullable)customPayload withCompletion:(DeeplinkCompletion)completionBlock;
 
 - (void)loadSmartechStore;

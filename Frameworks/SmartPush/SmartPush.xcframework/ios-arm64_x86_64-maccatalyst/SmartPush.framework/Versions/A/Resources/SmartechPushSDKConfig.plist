@@ -84,6 +84,7 @@
 			<key>supportedLayouts</key>
 			<array>
 				<integer>91</integer>
+				<integer>92</integer>
 			</array>
 			<key>similarLayouts</key>
 			<dict/>
