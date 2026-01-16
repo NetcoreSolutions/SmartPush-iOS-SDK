@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'SmartPush-iOS-SDK'
-  s.version                 = '3.5.7'
+  s.version                 = '3.5.8'
   s.summary                 = 'The SmartPush iOS SDK for User Engagement.'
   s.description             = <<-DESC
                                 Smartech is a omni channel platform that delivers everything you need to drive mobile engagement and create valuable consumer relationships on mobile.
@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.frameworks              = 'Foundation', 'UIKit', 'SystemConfiguration', 'Security', 'CoreData'
   s.weak_framework          = 'UserNotifications'
   
-  s.dependency "Smartech-iOS-SDK", '>= 3.7.2'
+  s.dependency "Smartech-iOS-SDK", '>= 3.7.4'
 
 end
